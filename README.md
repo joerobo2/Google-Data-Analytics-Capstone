@@ -26,6 +26,6 @@ The purpose of this case study is to provide Bellabeat stakeholders insights int
 Deliverable:
 
   
-  RMarkdown Document detailing workflow, analysis, and conclusions
+•   RMarkdown Document detailing workflow, analysis, and conclusions
   
 
